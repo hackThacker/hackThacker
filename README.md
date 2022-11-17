@@ -46,7 +46,6 @@ I'm a self-taught-learn  passionate about
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -91,10 +90,11 @@ I'm a self-taught-learn  passionate about
 
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackThacker&theme=radical&show_icons=true)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackThacker&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackThacker&layout=compact)]
 
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackThacker&repo=advtools)]
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackThacker&repo=advtools)]
+    
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hackThacker/count.svg" />
