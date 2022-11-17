@@ -56,18 +56,19 @@ I'm a self-taught-learn  passionate about
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
 
+- **Back-End Development**:
+
+    ![PHP]()) 
+	
 <br>
 
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
-<br>
 
-- **Cloud Hosting**:
-
-    ![PHP](https://img.shields.io/badge/-php-purple)   
 <br>
 
 - **Softwares and Tools**:
@@ -90,10 +91,10 @@ I'm a self-taught-learn  passionate about
 
 <br>
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackThacker&theme=radical&show_icons=true)
 
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello Eveyone !">
-
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackThacker&repo=advtools)]
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hackThacker/count.svg" />
