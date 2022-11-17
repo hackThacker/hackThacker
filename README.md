@@ -29,7 +29,7 @@ I'm a self-taught-learn  passionate about
  - 🧑‍💻 Making awesome tools
 
 
-**About-us**
+ **About-us**:
 
 - 💼 FrontEnd developer  
 
@@ -109,4 +109,4 @@ I'm a self-taught-learn  passionate about
 </p>
 
 
-
+![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hackThacker)
