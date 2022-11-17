@@ -35,14 +35,18 @@ I'm a self-taught-learn  passionate about
 
 - 💬 Ask me about anything [here](https://github.com/hackThacker/hackThacker/issues)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+##  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackThacker&theme=radical&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackThacker&layout=compact)
+##  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackThacker&repo=advtools)
+<br>
+
+<p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-
-<p align="center">
-
+	
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -59,7 +63,7 @@ I'm a self-taught-learn  passionate about
 
 - **Back-End Development**:
 
-    ![PHP]()) 
+    ![PHP](https://img.shields.io/badge/-PHP-%23777BB4)
 	
 <br>
 
@@ -89,11 +93,10 @@ I'm a self-taught-learn  passionate about
 </p>
 
 <br>
+  
 <br>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackThacker&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackThacker&layout=compact)]
-
 <br>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackThacker&repo=advtools)]
+ 
     
 <p align="center"> 
   Visitor count<br>
