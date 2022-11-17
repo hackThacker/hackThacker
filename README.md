@@ -42,7 +42,7 @@ I'm a self-taught-learn  passionate about
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-##  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackThacker&theme=radical&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackThacker&layout=compact)
+##  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackThacker&theme=radical&show_icons=true)  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hackThacker&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="hackThacker"/>
 ##  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackThacker&repo=advtools)
 <br>
 
