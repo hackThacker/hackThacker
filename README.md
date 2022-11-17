@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Niraj Adhikari </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=800&height=70&lines=Self-taught+Programming+⌨️,;👨🏻‍💻Cyber+Security+:Computer+Science+Student,;CTF+Hacking|Labs,;Online+Active+Learner/Researcher,;Love+to+learn+new+stuffs..<❤️';Everyone+should+read+the+Bhagavad+Gita+at+least+once+in+their+life,;Hare+krishna+Hare+Krishna+krishna+krishna+Hare+Hare,;Hare+Ram+Hare+Ram+Ram+Ram+Hare+Hare..&heart"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=800&height=70&lines=Self-taught+Programming+👨‍💻,;👨🏻‍💻Cyber+Security+:Computer+Science+Student,;CTF+Hacking|Labs,;Online+Active+Learner/Researcher,;Love+to+learn+new+stuffs..<❤;Everyone+should+read+the+Bhagavad+Gita+at+least+once+in+their+life,;Hare+krishna+Hare+Krishna+krishna+krishna+Hare+Hare,;Hare+Ram+Hare+Ram+Ram+Ram+Hare+Hare..❤️"></a>
 </p>
 
 
