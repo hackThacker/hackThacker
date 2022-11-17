@@ -27,8 +27,9 @@ I'm a self-taught-learn  passionate about
  - 👨🏻‍💻🔐 Cybersecurity 
  - 🌐 Netwoking
  - 🧑‍💻 Making awesome tools
- - 
-**about -us **
+
+
+**About-us**
 
 - 💼 FrontEnd developer  
 
@@ -38,7 +39,8 @@ I'm a self-taught-learn  passionate about
 
 - 💬 Ask me about anything [here](https://github.com/hackThacker/hackThacker/issues)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
 ##  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackThacker&theme=radical&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackThacker&layout=compact)
 ##  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hackThacker&repo=advtools)
