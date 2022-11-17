@@ -23,9 +23,12 @@ I'm a self-taught-learn  passionate about
  - 👩‍💻 Programming
  - 👩🏾‍💻 Ethical hacking 
  - 🕵️‍♂️ Computer or digital forensic
+ - 📱 New Technology 
+ - 👨🏻‍💻🔐 Cybersecurity 
+ - 🌐 Netwoking
  - 🧑‍💻 Making awesome tools
-
-**list**
+ - 
+**about -us **
 
 - 💼 FrontEnd developer  
 
