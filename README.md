@@ -20,7 +20,7 @@
 <br />
 
 I'm a self-taught-learn  passionate about
- - 👩‍💻 Programming
+ - 👩‍💻 Programmer
  - 👩🏾‍💻 Ethical hacking 
  - 🕵️‍♂️ Computer or digital forensic
  - 📱 New Technology 
@@ -31,11 +31,11 @@ I'm a self-taught-learn  passionate about
 
  **About-us**:
 
-- 💼 FrontEnd developer  
+- 💼 Cyber security learners with 
 
 - 📈 Built github-readme-stats, soon, **1m+** hits • **5K** stars on GitHub
 
-- ❤️ I love writing python,javascript and building fun experiments on top-level
+- ❤️ I love writing python,javascript, laravel and building fun experiments on top-level
 
 - 💬 Ask me about anything [here](https://github.com/hackThacker/hackThacker/issues)
 
@@ -50,56 +50,147 @@ I'm a self-taught-learn  passionate about
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-	<img src="https://tryhackme-badges.s3.amazonaws.com/hackniraj099.png" alt="hackthacker" />
+### **Ctf Badges**:
+![hackthacker](https://tryhackme-badges.s3.amazonaws.com/hackniraj099.png)
 
- 
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+---
 
-<br>   
-    
-- **Front-End Development**:
+### **Penetration Tester**
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-<br>
+#### **SOC (Security Operations Center) and Penetration Testing (red teaming)**:
 
-- **Back-End Development**:
+- **SOC Analyst**:  
+  ![SOC Analyst Badge](https://img.shields.io/badge/SOC%20Analyst-%2333A2B8.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
-    ![PHP](https://img.shields.io/badge/-PHP-%23777BB4)
-	
-<br>
+- **Penetration Testing**:  
+  ![Penetration Testing Badge](https://img.shields.io/badge/Penetration%20Testing-%23D32F2F.svg?style=for-the-badge&logo=security&logoColor=white)
 
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+- **Networking**:  
+  ![Networking Badge](https://img.shields.io/badge/Networking-%2300A9E0.svg?style=for-the-badge&logo=compTIA&logoColor=white)
 
 
-</p>
+- **Linux Securit**:  
+  ![Linux Security Badge](https://img.shields.io/badge/Linux%20Security-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-<br>
+#### **Security Tools**:
+
+- **Nmap** (Network Scanning):  
+  ![Nmap Badge](https://img.shields.io/badge/Nmap-%2300A9E0.svg?style=for-the-badge&logo=nmap&logoColor=white)
+
+- **Wireshark** (Network Monitoring & Analysis):  
+  ![Wireshark Badge](https://img.shields.io/badge/Wireshark-%231497D2.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+
+- **Kali Linux** (Penetration Testing OS):  
+  ![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-%235A1B19.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+- **Metasploit** (Exploit Framework):  
+  ![Metasploit Badge](https://img.shields.io/badge/Metasploit-%23DD1B16.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+
+- **Burp Suite** (Web Application Pen Testing):  
+  ![Burp Suite Badge](https://img.shields.io/badge/Burp%20Suite-%23D20000.svg?style=for-the-badge&logo=burp-suite&logoColor=white)
+---
+
+### **Knowledges**
+![Cybersecurity Fundamentals Badge](https://img.shields.io/badge/Cybersecurity%20Fundamentals-%230A3B53.svg?style=for-the-badge&logo=cisco&logoColor=white)  
+![Cybersecurity Intermediate Badge](https://img.shields.io/badge/Cybersecurity%20Intermediate-%236C6C6C.svg?style=for-the-badge&logo=security&logoColor=white)  
+![Network+ Badge](https://img.shields.io/badge/Network%2B-%2300A9E0.svg?style=for-the-badge&logo=compTIA&logoColor=white)  
+![Security+ Badge](https://img.shields.io/badge/Security%2B-%2300A9E0.svg?style=for-the-badge&logo=compTIA&logoColor=white)  
+![Red Hat Badge](https://img.shields.io/badge/Red%20Hat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
+
+---
+
+### **Languages**:
+
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Bash Badge](https://img.shields.io/badge/Bash-%2300A4B1.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Go Badge](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+![Rust Badge](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+---
+
+### **Front-End Development**:
+
+![HTML Badge](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS Badge](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-%2313B6B2.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![Nuxt.js Badge](https://img.shields.io/badge/Nuxt.js%20-%2300C58E.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+
+---
+
+### **Back-End Development**:
+
+![PHP](https://img.shields.io/badge/-PHP-%23777BB4)  
+![Laravel Badge](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+---
+
+## **Full Stack Development: ![LAMP Stack Badge](https://img.shields.io/badge/LAMP%20Stack-%23F0C674.svg?style=for-the-badge&logo=linux&logoColor=white) with ![Laravel Badge](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)**
+
+As a Full Stack Developer, I specialize in the following technologies:
+
+![Linux Badge](https://img.shields.io/badge/Linux-%2300A4A6.svg?style=for-the-badge&logo=linux&logoColor=white)  
+**Linux** is the operating system that acts as the foundation for the server environment.
+
+![Apache Badge](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)  
+**Apache** is the web server that handles HTTP requests and delivers content to users. It is one of the most used web servers in the world.
+
+![MySQL Badge](https://img.shields.io/badge/MySQL-%2300A5E5.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+**MySQL** is the relational database management system (RDBMS) that stores, manages, and queries information. It's powerful, quick, and dependable.
+
+![PHP Badge](https://img.shields.io/badge/PHP-%2378B9EB.svg?style=for-the-badge&logo=php&logoColor=white)  
+**PHP** is a server-side scripting language used to create dynamic and interactive web pages. It serves as the LAMP stack's backend.
+
+### **Authentication:**
+![OAuth Badge](https://img.shields.io/badge/OAuth-%231A1A1A.svg?style=for-the-badge&logo=oauth&logoColor=white)  
+![JWT Badge](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+### **Security:**
+![HTTPS Badge](https://img.shields.io/badge/HTTPS-%23000.svg?style=for-the-badge&logo=chrome&logoColor=white)  
+![CORS Badge](https://img.shields.io/badge/CORS-%23000000.svg?style=for-the-badge&logo=cors&logoColor=white)  
+![CSRF Badge](https://img.shields.io/badge/CSRF-%23D32F2F.svg?style=for-the-badge&logo=bug&logoColor=white)  
+![Rate Limiting Badge](https://img.shields.io/badge/Rate%20Limiting-%23F44336.svg?style=for-the-badge&logo=cloudflare&logoColor=white)  
+![Input Validation Badge](https://img.shields.io/badge/Input%20Validation-%2300C853.svg?style=for-the-badge&logo=check-circle&logoColor=white)  
+![XSS Badge](https://img.shields.io/badge/XSS-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white)  
+![SQL Injection Badge](https://img.shields.io/badge/SQL%20Injection-%23D32F2F.svg?style=for-the-badge&logo=database&logoColor=white)
+
+### **Version Control:**
+![Git Badge](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![GitLab Badge](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+### **DevOps & Cloud :**
+
+#### **CI/CD:**
+ ![GitLab CI Badge](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+#### **Containerization:**
+ ![Docker Badge](https://img.shields.io/badge/Docker-%2300A9D1.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+#### **Cloud Services:**
+![AWS Badge](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2 Badge](https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+ ![S3 Badge](https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS Badge](https://img.shields.io/badge/RDS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### **Softwares and Tools:**
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### **Extras**:
+
+![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
   
 <br>
 <br>
