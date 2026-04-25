@@ -6,7 +6,7 @@
   <a href="https://github.com/hackThacker"><img src="https://img.shields.io/github/followers/hackThacker?label=GitHub&style=flat-square&logo=github&logoColor=white&color=0d1117&labelColor=0d1117"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/niraj-adhikari-hackthacker/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://www.credly.com/users/niraj-adhikari.hackthacker/badges"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=flat-square&logo=credly&logoColor=white"/></a>&nbsp;
-  <a href="https://tryhackme.com/p/hackniraj099"><img src="https://img.shields.io/badge/TryHackMe-hackniraj099-212C42?style=flat-square&logo=tryhackme&logoColor=red"/></a>&nbsp;
+  <a href="https://tryhackme.com/p/HackThacker"><img src="https://img.shields.io/badge/TryHackMe-HackThacker-212C42?style=flat-square&logo=tryhackme&logoColor=red"/></a>&nbsp;
   <a href="http://hackthacker.blogspot.com/"><img src="https://img.shields.io/badge/Blog-Cyber%20Security-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=hackThacker&color=58a6ff&style=flat-square&label=Views"/>
 </p>
@@ -135,7 +135,7 @@ I actively publish on my **[blog](http://hackthacker.blogspot.com/)** covering e
   <a href="https://www.linkedin.com/in/niraj-adhikari-hackthacker/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.credly.com/users/niraj-adhikari.hackthacker/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
   <a href="http://hackthacker.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/hackniraj099"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+  <a href="https://tryhackme.com/p/HackThacker"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
   <a href="https://github.com/hackThacker/hackThacker/issues"><img src="https://img.shields.io/badge/Ask%20Me%20Anything-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:nirajadhikari579+github@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff"/></a>
 </p>
