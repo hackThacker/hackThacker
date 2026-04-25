@@ -27,8 +27,8 @@ I actively publish on my **[blog](http://hackthacker.blogspot.com/)** covering e
 |---|---|
 | 🔴 **Offensive Security** | Penetration testing, red teaming, bug bounty hunting, CTF |
 | 🛡️ **Cybersecurity Trainer** | Teaching ethical hacking, Linux security, networking & labs — [See Student Work →](https://github.com/shresthadilip/CyberSecurity) |
-| 🏗️ **Software Architect** | System design, scalable architecture, API design patterns |
-| 🌐 **Networking** | Network architecture, protocols, practical labs, troubleshooting |
+| 🏗️ **Software Architect** | System design, scalable architecture, API design patterns — [See Project →](https://github.com/hackThacker/fuzzy-engine) |
+| 🌐 **Networking** | Network architecture, protocols, practical labs, troubleshooting — [See Project →](https://github.com/hackThacker/network-practical) |
 | 🐧 **Linux** | Linux administration, hardening, scripting, security |
 | ☁️ **Cloud Engineering** | Multi-cloud infrastructure: AWS · GCP · Azure · Linode · Heroku |
 
