@@ -29,6 +29,7 @@ I actively publish on my **[blog](http://hackthacker.blogspot.com/)** covering e
 | 🛡️ **Cybersecurity Trainer** | Teaching ethical hacking, Linux security, networking & labs — [See Student Work →](https://github.com/shresthadilip/CyberSecurity) |
 | 🏗️ **Software Architect** | System design, scalable architecture, API design patterns — [See Project →](https://github.com/hackThacker/fuzzy-engine) |
 | 🌐 **Networking** | Network architecture, protocols, practical labs, troubleshooting — [See Project →](https://github.com/hackThacker/network-practical) |
+| 🟣 **Reverse Engineering** | Binary analysis, malware analysis, debugging, [View Resources →](https://github.com/hackThacker/awesome-reverse-engineering) |
 | 🐧 **Linux** | Linux administration, hardening, scripting, security |
 | ☁️ **Cloud Engineering** | Multi-cloud infrastructure: AWS · GCP · Azure · Linode · Heroku |
 
