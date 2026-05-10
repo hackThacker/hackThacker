@@ -25,7 +25,7 @@ I actively publish on my **[blog](http://hackthacker.blogspot.com/)** covering e
 
 | Area | Focus |
 |---|---|
-| 🔴 **Offensive Security** | Penetration testing, red teaming, bug bounty hunting, CTF |
+| 🔴 **Offensive Security** | Penetration testing, red teaming, bug bounty hunting, CTF — [Security Visual Animation →](https://visual-animation.vercel.app/) \| [Session System →](https://sessions-identifiers.vercel.app/) \| [API Service →](https://api-sandy-eta-15.vercel.app/) |
 | 🛡️ **Cybersecurity Trainer** | Teaching ethical hacking, Linux security, networking & labs — [See Student Work →](https://github.com/shresthadilip/CyberSecurity) |
 | 🏗️ **Software Architect** | System design, scalable architecture, API design patterns — [See Project →](https://github.com/hackThacker/fuzzy-engine) |
 | 🌐 **Networking** | Network architecture, protocols, practical labs, troubleshooting — [See Project →](https://github.com/hackThacker/network-practical) |
