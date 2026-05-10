@@ -77,29 +77,56 @@ I actively publish on my **[blog](http://hackthacker.blogspot.com/)** covering e
 
 ### 📦 Featured Projects
 
-<a href="https://github.com/hackThacker/advtools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackThacker&repo=advtools&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-</a>
-<a href="https://github.com/hackThacker/Bug-Bounty-Tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackThacker&repo=Bug-Bounty-Tools&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/hackThacker/network-practical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackThacker&repo=network-practical&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-</a>
-<a href="https://github.com/hackThacker/fuzzy-engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackThacker&repo=fuzzy-engine&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🐛 <a href="https://github.com/hackThacker/Bug-Bounty-Tools">Bug-Bounty-Tools</a></h3>
+      <p>Your Comprehensive Collection of Bug Bounty Tools for Effective Cybersecurity Testing</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/hackThacker/Bug-Bounty-Tools?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/github/forks/hackThacker/Bug-Bounty-Tools?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/github/languages/top/hackThacker/Bug-Bounty-Tools?style=flat-square&color=58a6ff&labelColor=0d1117"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🔧 <a href="https://github.com/hackThacker/advtools">advtools</a></h3>
+      <p>Advanced security tools collection for offensive security operations and automation</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/hackThacker/advtools?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/github/forks/hackThacker/advtools?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/github/languages/top/hackThacker/advtools?style=flat-square&color=58a6ff&labelColor=0d1117"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ <a href="https://github.com/hackThacker/fuzzy-engine">fuzzy-engine</a></h3>
+      <p>System Design Master Guide — a structured production-focused resource for learning how large scale systems are designed, built and optimized</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/hackThacker/fuzzy-engine?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/github/forks/hackThacker/fuzzy-engine?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/github/languages/top/hackThacker/fuzzy-engine?style=flat-square&color=58a6ff&labelColor=0d1117"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🌐 <a href="https://github.com/hackThacker/network-practical">network-practical</a></h3>
+      <p>Hands-on network architecture, protocols, and practical labs for real-world troubleshooting and security</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/hackThacker/network-practical?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/github/forks/hackThacker/network-practical?style=flat-square&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/github/languages/top/hackThacker/network-practical?style=flat-square&color=58a6ff&labelColor=0d1117"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hackThacker&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackThacker&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hackThacker&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hackThacker&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
 </p>
 
 <p align="center">
@@ -138,18 +165,18 @@ I actively publish on my **[blog](http://hackthacker.blogspot.com/)** covering e
   <a href="http://hackthacker.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/HackThacker"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
   <a href="https://github.com/hackThacker/hackThacker/issues"><img src="https://img.shields.io/badge/Ask%20Me%20Anything-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:nirajadhikari579+github@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff"/></a>
+  <a href="mailto:nirajadhikari579+github@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff"/></a>
 </p>
 
 ---
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=hackThacker&color=58a6ff&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=hackThacker&color=58a6ff&style=flat-square&label=Profile+Views"/>
   <br/><br/>
   <i>"Everyone should read the Bhagavad Gita at least once in their life 🙏 — Hare Krishna ❤️"</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=130&section=footer&text=HACKTHACKER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
 
 <p align="center">
   <sub>Made with ❤️ by <a href="https://github.com/hackThacker">hackthacker</a></sub>
