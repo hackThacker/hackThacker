@@ -19,6 +19,10 @@ I'm **Niraj Adhikari**  an offensive security researcher, cybersecurity trainer,
 
 I actively publish on my **[blog](http://hackthacker.blogspot.com/)** covering ethical hacking, networking, Linux, system design, and cybersecurity roadmaps. I hold verified certifications on **[Credly](https://www.credly.com/users/niraj-adhikari.hackthacker/badges)** and train others on platforms like TryHackMe.
 
+###  Currently Working On
+
+-  Architecting a **production-grade distributed system**  handling load balancing, horizontal scaling, fault tolerance, and zero-downtime deployments
+-  Engineering a **custom AI system** on top of **OpenRouter API**  building LLM routing logic, managing model fallbacks, and shipping it as a production-ready AI pipeline
 ---
 
 ### 🚀 What I Do
