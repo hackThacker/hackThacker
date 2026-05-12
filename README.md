@@ -27,9 +27,10 @@ I actively publish on my **[blog](http://hackthacker.blogspot.com/)** covering e
 |---|---|
 | 🔴 **Offensive Security** | Penetration testing, red teaming, bug bounty hunting, CTF — [Security Visual Animation →](https://visual-animation.vercel.app/) \| [Session System →](https://sessions-identifiers.vercel.app/) \| [API Service →](https://api-sandy-eta-15.vercel.app/) |
 | 🛡️ **Cybersecurity Trainer** | Teaching ethical hacking, Linux security, networking & labs — [See Student Work →](https://github.com/shresthadilip/CyberSecurity) |
-| 🏗️ **Software Architect** | System design, scalable architecture, API design patterns — [See Project →](https://github.com/hackThacker/fuzzy-engine) |
-| 🌐 **Networking** | Network architecture, protocols, practical labs, troubleshooting — [See Project →](https://github.com/hackThacker/network-practical) |
+| 🏗️ **Software Architect** | System design, scalable architecture, API design patterns — [See Open Source Project →](https://github.com/hackThacker/fuzzy-engine) |
+| 🌐 **Networking** | Network architecture, protocols, practical labs, troubleshooting — [See Open Source Project →](https://github.com/hackThacker/network-practical) |
 | 🟣 **Reverse Engineering** | Binary analysis, malware analysis, debugging, [View Resources →](https://github.com/hackThacker/awesome-reverse-engineering) |
+| 🤖 **AI / ML & LLM Engineering** | AI Agents, LLMs, RAG, Predictive ML, CV, NLP — [See Open Source Project →](https://github.com/hackThacker/awesome-ml-llm-case-studies) | 
 | 🐧 **Linux** | Linux administration, hardening, scripting, security |
 | ☁️ **Cloud Engineering** | Multi-cloud infrastructure: AWS · GCP · Azure · Linode · Heroku |
 
