@@ -19,6 +19,11 @@ I'm **Niraj Adhikari**  an offensive security researcher, cybersecurity trainer,
 
 I actively publish on my **[blog](http://hackthacker.blogspot.com/)** covering ethical hacking, networking, Linux, system design, and cybersecurity roadmaps. I hold verified certifications on **[Credly](https://www.credly.com/users/niraj-adhikari.hackthacker/badges)** and train others on platforms like TryHackMe.
 
+🌐 **[website](https://hackthacker.app/)**
+
+📝 **[Latest Articles](https://hackthacker.medium.com/)**
+
+
 ###  Currently Working On
 
 -  Architecting a **production-grade distributed system**  handling load balancing, horizontal scaling, fault tolerance, and zero-downtime deployments
@@ -31,10 +36,10 @@ I actively publish on my **[blog](http://hackthacker.blogspot.com/)** covering e
 |---|---|
 | 🔴 **Offensive Security** | Penetration testing, red teaming, bug bounty hunting, CTF — [Security Visual Animation →](https://visual-animation.vercel.app/) \| [Session System →](https://sessions-identifiers.vercel.app/) \| [API Service →](https://api-sandy-eta-15.vercel.app/) |
 | 🛡️ **Cybersecurity Trainer** | Teaching ethical hacking, Linux security, networking & labs — [See Student Work →](https://github.com/shresthadilip/CyberSecurity) |
-| 🏗️ **Software Architect** | System design, scalable architecture, API design patterns — [See Open Source Project →](https://github.com/hackThacker/fuzzy-engine) |
-| 🌐 **Networking** | Network architecture, protocols, practical labs, troubleshooting — [See Open Source Project →](https://github.com/hackThacker/network-practical) |
-| 🟣 **Reverse Engineering** | Binary analysis, malware analysis, debugging, [View Resources →](https://github.com/hackThacker/awesome-reverse-engineering) |
-| 🤖 **AI / ML & LLM Engineering** | AI Agents, LLMs, RAG, Predictive ML, CV, NLP — [See Open Source Project →](https://github.com/hackThacker/awesome-ml-llm-case-studies) | 
+| 🏗️ **Software Architect** | System design, scalable architecture, API design patterns — [System Design Master Guide →](https://github.com/hackThacker/fuzzy-engine) |
+| 🌐 **Networking** | Network architecture, protocols, practical labs, troubleshooting — [Network Practical →](https://github.com/hackThacker/network-practical) |
+| 🟣 **Reverse Engineering** | Binary analysis, malware analysis, debugging  — [Malware Incident →](https://github.com/hackThacker/win-threat-analysis) \| [Android Reverse Engineering →](https://github.com/hackThacker/awesome-reverse-engineering)   |
+| 🤖 **AI / ML & LLM Engineering** | AI Agents, LLMs, RAG, Predictive ML, CV, NLP — [ML & LLM System Design: 800 Case Studies →](https://github.com/hackThacker/awesome-ml-llm-case-studies) | 
 | 🐧 **Linux** | Linux administration, hardening, scripting, security |
 | ☁️ **Cloud Engineering** | Multi-cloud infrastructure: AWS · GCP · Azure · Linode · Heroku |
 
